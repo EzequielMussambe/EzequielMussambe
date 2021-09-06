@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ezequiel Mussambe
-- 👀 I’m interested in GIS Big Data & GIS Web App 
-- 🌱 I’m currently learning Angular/OpenLayers
+- 👀 I’m interested in GIS Big Data & GIS web developement 
+- 🌱 I’m currently working with Angular/OpenLayers 
 - 💞️ I’m looking to collaborate on Web App
 - 📫 How to reach me  +1 5124008757 / emussambe@gmail.com
 
